@@ -34523,6 +34523,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "ANXwRA8fC8o1hsPESYSPtqCwaFduXZXzAWRToy9jG6h3",
+      "symbol": "KempKoin",
+      "name": "KempKoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/bernardhackwell/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
